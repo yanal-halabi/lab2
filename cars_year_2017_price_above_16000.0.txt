@@ -1,0 +1,1 @@
+3, Toyota, Corolla, 2017, Black, 17000.0, LMN789

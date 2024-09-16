@@ -1,0 +1,2 @@
+1, Toyota, Camry, 2015, Red, 15000.0, ABC123
+3, Toyota, Corolla, 2017, Black, 17000.0, LMN789
